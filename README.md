@@ -25,3 +25,7 @@ One of the key components of this system is the PDF report generation module. Th
 The Automated Report Generation System offers several advantages. It reduces human errors associated with manual calculations, saves time, and ensures consistency in report formatting. The system is scalable and can be extended to include advanced features such as charts, graphs, multi-page reports, or support for additional data formats like Excel files. It can be applied in various domains such as education, business analytics, finance, and healthcare reporting.
 
 In conclusion, the Automated Report Generation System demonstrates the practical use of Python for real-world automation tasks. By combining data processing, user interaction, and document generation, the project highlights how automation can improve productivity and efficiency. This system serves as a strong example of how software solutions can replace manual workflows and deliver accurate, professional results with minimal user effort.
+
+#output
+
+<img width="634" height="327" alt="Image" src="https://github.com/user-attachments/assets/7493bc2f-40cc-4dff-9828-e5c35c402fa4" />
