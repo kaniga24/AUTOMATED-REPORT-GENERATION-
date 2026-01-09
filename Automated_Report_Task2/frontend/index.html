@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Automated Report Generator</title>
+</head>
+<body>
+    <h2>Upload CSV to Generate PDF Report</h2>
+
+    <form action="http://127.0.0.1:5000/generate"
+          method="POST"
+          enctype="multipart/form-data">
+
+        <input type="file" name="file" required><br><br>
+        <button type="submit">Generate Report</button>
+
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
